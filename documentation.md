@@ -47,3 +47,10 @@ three different tabs:
 * Table: shows the generated distribution values in an interactive data table.
 
 Data display tabs are refreshed each time a parameter is changed in the configuration.
+
+## Source code
+
+Application source code can be found at:
+
+https://github.com/gmcorral/shinyapp
+
